@@ -1,0 +1,9 @@
+1.create project
+   cartesi create toupper --template javascript
+2.Build
+   cartesi build
+3.Run
+   cartesi run
+4.send inputs
+   cartesi send/cast      
+   
